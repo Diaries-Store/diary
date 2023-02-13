@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nos tulit videt quid busto duros simul" 
-date: 2020-2-29
+date: 2020-02-29
 category: code 
 excerpt: ""
 ---
