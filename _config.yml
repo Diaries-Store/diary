@@ -1,7 +1,7 @@
 name: HsiangNianian
 permalink: :year/:month/:day/:title
 baseurl: ''
-
+logo: favicon.ico
 # Your blog's start year and this year, showed in the footer left
 # start is optional
 start: 2018
