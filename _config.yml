@@ -18,8 +18,8 @@ link:
 nav:
    Home: "/"
 #    Diary: "/diary"
-
-   
+plugins:
+- jekyll-feed
 markdown: kramdown
 highlighter: rouge
 
