@@ -90,7 +90,7 @@
     var urlJSON = {
     {% for post in site.posts %}
     "{{ post.url | slice: 1, 10 | replace: '-', '/' | replace: '/0', '/' | strip }}": {
-        url: "{{ site.baseurl }}{{ post.url }}.html",
+        url: "{{ site.baseurl }}{{ post.url }}",
         excerpt: "{{ post.excerpt }}",
         index: {{ forloop.rindex }}
     },
